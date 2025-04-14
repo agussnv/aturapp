@@ -1,0 +1,32 @@
+<svg viewBox="0 0 60 40" height="16px" width="24px" xmlns="http://www.w3.org/2000/svg" fill="#000000">
+    <circle r="6" cy="20" cx="9" class="circle"></circle>
+    <circle r="6" cy="20" cx="30" class="circle"></circle>
+    <circle r="6" cy="20" cx="51" class="circle"></circle>
+
+    <style type="text/css">
+        .circle {
+            animation: bounce 1s infinite;
+        }
+
+        .circle:nth-child(1) {
+            animation-delay: 0s;
+        }
+
+        .circle:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .circle:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+
+        @keyframes bounce {
+            0%, 100% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+        }
+    </style>
+</svg>

@@ -1,0 +1,35 @@
+Nom [Opcional?] (puede que no haga falta)
+
+Curs
+
+Curs acadèmic en el qual has presenciat l'incident
+
+Quin es el teu grup classe [Opcional]
+
+Com descriuries el tipus de bullying que has presenciat?
+Físic
+Verbal
+Social
+Ciberbullying
+Altres:
+
+On va ocórrer aquest incident?
+Aula
+Passadís
+Pati
+Altres:
+
+Quan va ocórrer aquest incident?
+
+Detalla què va passar en l'incident que has presenciat.
+
+Pots proporcionar informació sobre les persones involucrades en l'incident?[Opcional]
+
+Si les coneixes, indica la relació entre elles.
+Companys de classe
+Amics
+Altres
+
+Coneixes si hi ha hagut alguna conseqüència per a les persones involucrades?
+
+Coneixes si hi ha hagut seguiment o intervenció per part del personal escolar?
